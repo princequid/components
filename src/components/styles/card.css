@@ -30,6 +30,6 @@ button:hover {
   color: #1d0245;
   cursor: pointer;
   transition: ease-in-out 0.3s;
-  transform: translateX(20px) rotate(8deg) scale(1.2);
+  transform: translateX(20px) rotate(3deg) scale(1.2);
 
 }
